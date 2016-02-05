@@ -22,6 +22,7 @@ User Functions
     sol_sine
     sol_sine2
     sol_gaussian
+    baseline_corrector
 
 Developer Functions
 -------------------
